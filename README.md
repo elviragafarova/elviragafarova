@@ -1,9 +1,8 @@
-💻 Aspiring Java Backend Developer  
-🌱 Currently learning Spring Boot ecosystem and Microservices  
-📚 Focused on Backend Development with Java  
-⚡ Interested in REST APIs, Databases, Security, and Clean Architecture
+# 💫 About Me:
+Junior Java Backend Developer with hands-on internship experience in the Java and Spring Boot ecosystem. Focused on building RESTful APIs and backend systems using Spring Boot, PostgreSQL, and JPA/Hibernate with a solid understanding of client-server architecture. Motivated to write clean, maintainable code following SOLID principles and continuously grow through real-world projects.<br>
 
-🚀 Tech Stack
+
+# 💻 Tech Stack:
 
 Backend
 - Java
@@ -21,21 +20,4 @@ Tools
 - Docker
 - Gradle
 - IntelliJ IDEA
-
-🎓 Education
-
-Azerbaijan State Oil and Industry University
-Computer Engineering
-Sep 2022 – Jul 2026  
-GPA: 85
-
-IDTech Academy
-Java Backend Engineering
-Oct 2025 – Present
-
-
-🌍 Languages
-
-- English — B1
-- Azerbaijani — Native
 
