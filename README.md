@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there, I'm Elvira Gafarova 👋
 
-<!--
-**elviragafarova/elviragafarova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Java Backend Developer  
+🌱 Currently learning Spring Boot ecosystem and Microservices  
+📚 Focused on Backend Development with Java  
+⚡ Interested in REST APIs, Databases, Security, and Clean Architecture
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+### Backend
+- Java
+- Spring Boot
+- Spring MVC
+- Spring Security
+- JWT Authentication
+- REST API
+
+### Database & ORM
+- PostgreSQL
+- JPA / Hibernate
+
+### Tools
+- Git & GitHub
+- Docker
+- Maven
+- Gradle
+- IntelliJ IDEA
+
+---
+
+## 📌 Current Goals
+
+- Improve backend architecture skills
+- Build real-world Spring Boot projects
+- Learn Microservices & Redis
+- Practice Clean Code & SOLID principles
+
+---
+
+## 📫 Contact Me
+
+📧 elvira.qafarova.dev@gmail.com
