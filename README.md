@@ -1,44 +1,44 @@
-# Hi there, I'm Elvira Gafarova 👋
+<h2 align="center">Elvira Gafarova</h2>
+<h2 align="center">Java Backend Developer</h2>
 
 💻 Aspiring Java Backend Developer  
 🌱 Currently learning Spring Boot ecosystem and Microservices  
 📚 Focused on Backend Development with Java  
 ⚡ Interested in REST APIs, Databases, Security, and Clean Architecture
 
----
+🚀 Tech Stack
 
-## 🚀 Tech Stack
-
-### Backend
+Backend
 - Java
 - Spring Boot
 - Spring MVC
 - Spring Security
-- JWT Authentication
 - REST API
 
-### Database & ORM
+Database & ORM
 - PostgreSQL
 - JPA / Hibernate
 
-### Tools
+Tools
 - Git & GitHub
 - Docker
-- Maven
 - Gradle
 - IntelliJ IDEA
 
----
+🎓 Education
 
-## 📌 Current Goals
+Azerbaijan State Oil and Industry University
+Computer Engineering
+Sep 2022 – Jul 2026  
+GPA: 85
 
-- Improve backend architecture skills
-- Build real-world Spring Boot projects
-- Learn Microservices & Redis
-- Practice Clean Code & SOLID principles
+IDTech Academy
+Java Backend Engineering
+Oct 2025 – Present
 
----
 
-## 📫 Contact Me
+🌍 Languages
 
-📧 elvira.qafarova.dev@gmail.com
+- English — B1
+- Azerbaijani — Native
+
