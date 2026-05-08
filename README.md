@@ -1,6 +1,3 @@
-<h2 align="center">Elvira Gafarova</h2>
-<h2 align="center">Java Backend Developer</h2>
-
 💻 Aspiring Java Backend Developer  
 🌱 Currently learning Spring Boot ecosystem and Microservices  
 📚 Focused on Backend Development with Java  
